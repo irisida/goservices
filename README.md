@@ -1,2 +1,3 @@
-# goservices
-microservices  with go
+# GoServices
+
+A guide to microservices with Go (Golang)
